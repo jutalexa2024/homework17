@@ -59,7 +59,7 @@ Demonstrates POST and DELETE routes for adding and removing friends from a user'
 Reactions to Thoughts:
 
 Demonstrates POST and DELETE routes for adding and removing reactions to thoughts.
-  ```
+  
 
 ## Features
 
